@@ -1,0 +1,9 @@
+
+@font-face {
+	font-family: 'GothamPro-Black';
+	src: url('GothamPro-Black.eot?') format('eot'), 
+	     url('GothamPro-Black.otf')  format('opentype'),
+	     url('GothamPro-Black.woff') format('woff'), 
+	     url('GothamPro-Black.ttf')  format('truetype'),
+	     url('GothamPro-Black.svg#GothamPro-Black') format('svg');
+}
